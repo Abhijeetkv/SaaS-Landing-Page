@@ -1,6 +1,6 @@
 import React from 'react'
 import ArrowRight from '../../assets/arrow-right.svg'
-import Logo from '../../assets/logosaas.png'
+import Logo from '../../assets/Logo.png'
 import  MenuIcon from '../../assets/menu.svg'
 
 function Header() {
@@ -19,7 +19,7 @@ function Header() {
     <div className='py-5'>
         <div className='container'>
             <div className='flex items-center justify-between'>
-                    <img src={Logo} alt="" className='h-12 w-12' />
+                    <img src={Logo} alt="" className='h-16 w-16' />
                     <img src={MenuIcon} alt="" className='h-8 w-8 md:hidden' />
                     <nav className='hidden md:flex gap-6 text-black/60 items-center'>
                         <a href="#">About</a>
