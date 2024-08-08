@@ -15,7 +15,7 @@ const testimonials = [
   {
     text: "As a seasoned designer always on the lookout for innovative tools, Framer.com instantly grabbed my attention.",
     imageSrc: avatar1,
-    name: "Jamie Rivera",
+    name: "Ajay Singh Ranghuwanshi",
     username: "@jamietechguru00",
   },
   {
